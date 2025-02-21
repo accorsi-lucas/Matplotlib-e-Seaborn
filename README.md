@@ -24,9 +24,9 @@ Demonstrar competências práticas em:
 - Análise de tendências e padrões  
 
 ### Bibliotecas Python  
-matplotlib==3.9.2  
-seaborn==0.13.2  
-numpy==1.26.4
+- matplotlib==3.9.2  
+- seaborn==0.13.2  
+- numpy==1.26.4
 
 ## 💡 Aprendizados  
 - Boas práticas de visualização de dados  
